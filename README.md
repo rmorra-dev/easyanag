@@ -55,3 +55,20 @@ Sei uno studio di consulenza del lavoro o un potenziale partner interessato al p
 
 * **Email:** morraf63@gmail.com
 * **LinkedIn:** https://www.linkedin.com/in/raffaele-morra-933a7355/
+
+Anteprima
+<img width="1017" height="569" alt="schermata-principale" src="https://github.com/user-attachments/assets/d854b2ac-c3b4-48d6-893e-ee19df7246fb" />
+
+<img width="1019" height="570" alt="cartellino-presenze" src="https://github.com/user-attachments/assets/35342fab-33b6-4dc3-9de2-1148589a186e" />
+
+<img width="1012" height="574" alt="esportazioni-custom" src="https://github.com/user-attachments/assets/c2130b85-6f8f-4677-a72f-6191b76913c7" />
+
+<img width="1300" height="800" alt="analytics_organico" src="https://github.com/user-attachments/assets/f802d9e8-2a87-404c-b9d5-1df7dafb6a3f" />
+
+<img width="1300" height="800" alt="analytics_presenze" src="https://github.com/user-attachments/assets/333ed523-9114-4033-839f-54f183b11f54" />
+
+<img width="1300" height="800" alt="analytics_qualita" src="https://github.com/user-attachments/assets/fd36f153-ec42-4f40-b546-64591cef6cb8" />
+
+
+
+
