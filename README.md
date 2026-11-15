@@ -45,7 +45,7 @@ A differenza dei tradizionali portali web, EasyAnag adotta un approccio **locale
 ---
 
 ## 🗺️ Stato del Progetto e Partnership
-* **Stato attuale:** Versione 1.0 completa e operativa.
+* **Stato attuale:** Versione 1.0 completa.
 * **Obiettivo:** Ricerca di studi di consulenza del lavoro e partner tecnologici interessati a testare o integrare il connettore nei propri flussi operativi.
 
 ---
